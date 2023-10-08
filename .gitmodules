@@ -1,0 +1,6 @@
+[submodule "ResiLifeBackEnd"]
+	path = ResiLifeBackEnd
+	url = https://github.com/keshavlingala/ResiLifeBackend
+[submodule "ResiLifeFrontEnd"]
+	path = ResiLifeFrontEnd
+	url = https://github.com/keshavlingala/ResiLifeFrontEnd
